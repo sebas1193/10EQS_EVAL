@@ -38,7 +38,7 @@
 
 ### **Identified KPIs**
 
-![Description of Image](./img/image.png)
+![](./img/001_KPI.png)
 
 1. **Out-of-Stock Products:**
    - Identified **1 product** that was out of stock: `Mint Tea`.
