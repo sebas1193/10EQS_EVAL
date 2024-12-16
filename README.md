@@ -13,9 +13,6 @@
 ├── report.md
 ├── requirements.txt
 └── src
-    ├── __pycache__
-    │   ├── analysis.cpython-312.pyc
-    │   └── utils.cpython-312.pyc
     ├── analysis.py
     └── utils.py
 ```
